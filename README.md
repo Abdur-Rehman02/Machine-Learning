@@ -8,10 +8,6 @@ Email Spam Classification – classifying emails as spam or not spam using text 
 
 MNIST Digit Recognition – recognizing and classifying handwritten digits from 0 to 9 using image data.
 
-Housing Price Prediction – predicting house prices based on features like location, number of rooms, and population.
-
-Iris Flower Classification – classifying iris flowers into species based on sepal and petal measurements.
-
 Task 1: Email Spam Classification
 
 Objective: Build a machine learning model to classify emails as spam or not spam using a labeled dataset.
